@@ -67,7 +67,7 @@ System.out.println(newlist);
 
 
 
-// arraylist aur linkedlist ke saare methods same hai clone ko chod kar ,,,,linkedlist mai lastindexof() method extra hota hai bus 
+// arraylist aur linkedlist ke saare methods same hai clone ko chod kar ,,,,linkedlist mai lastindexof() method extra hota hai 
 LinkedList<Integer> ll= new LinkedList<>();
 ll.add(5);
 ll.addFirst(13);
